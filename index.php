@@ -26,5 +26,7 @@
   echo "<h1>My Name Is: $name</h1>";
 ?>
 
+<button>The Btn!</button>
+
 <?php include "./includes/footer.php"?>
 
